@@ -3,7 +3,7 @@
 
 _"ผมคิดว่าการทำความเข้าใจในระบบ Network เป็นรากฐานสำคัญของโลก IT แม้จะเป็นวิชาที่ท้าทายแต่การได้ลองเรียนรู้ด้วยตัวเองก็ช่วยให้ผมมองเห็นภาพรวมของเทคโนโลยีได้ชัดเจนขึ้นและเป็นแนวทางไปต่อยอดในอนาคตได้"_
 
-📫 **Email:** [ใส่ Email ของคุณที่นี่]  
+📫 **Email:** parinnakorn.y@kkumail.com  
 🛠️ **Skill Set:** Cisco Packet Tracer, VS Code, Wireshark, CLI Configuration
 
 ---
@@ -42,6 +42,4 @@ _"ผมคิดว่าการทำความเข้าใจในร
 **Cisco Networking Academy (Self-Learning)**
 * **Course:** CCNA1: Introduction to Networks (Completed)
 * **Key Modules:** Network Layer, IPv4/IPv6 Addressing, Transport/Application Layer, Network Security Fundamentals
-
-*(นำภาพหน้าจอผลคะแนน Checkpoint Exam และ Certificate จาก Cisco มาอัปโหลดใส่ GitHub แล้ววางลิงก์รูปภาพแทนข้อความนี้)*
-<img src="ใส่ลิงก์รูปภาพคะแนนสอบหรือเกียรติบัตรของคุณที่นี่" style="width: 80%; height: auto;"/>
+[(https://docs.google.com/document/d/16ELqaWqYT2FJoFPDVB4ZV651R_THSYlT8cBzpE7ECcM/edit?usp=sharing)](https://docs.google.com/document/d/16ELqaWqYT2FJoFPDVB4ZV651R_THSYlT8cBzpE7ECcM/edit?usp=sharing)
