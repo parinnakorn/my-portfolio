@@ -3,8 +3,8 @@
 
 _"ผมคิดว่าการทำความเข้าใจในระบบ Network เป็นรากฐานสำคัญของโลก IT แม้จะเป็นวิชาที่ท้าทายแต่การได้ลองเรียนรู้ด้วยตัวเองก็ช่วยให้ผมมองเห็นภาพรวมของเทคโนโลยีได้ชัดเจนขึ้นและเป็นแนวทางไปต่อยอดในอนาคตได้"_
 
-📫 **Email:** parinnakorn.y@kkumail.com  
-🛠️ **Skill Set:** Cisco Packet Tracer, VS Code, Wireshark, CLI Configuration
+📫 **Email :** parinnakorn.y@kkumail.com  
+🛠️ **Skill Set :** Cisco Packet Tracer, VS Code, Wireshark, CLI Configuration
 
 ---
 
