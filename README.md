@@ -19,6 +19,7 @@ _"ผมคิดว่าการทำความเข้าใจในร
 | **Assignment 3: Complex Network (Not Simple)** | ยกระดับการออกแบบและตั้งค่าระบบเครือข่ายให้มีความซับซ้อนและครอบคลุมการใช้งานมากขึ้น | [Read Document](https://docs.google.com/document/d/12GSGnVjJqhnD6YIkH037frhKm9JXoM8_B7qd1TbOU0I/edit?usp=sharing) |
 | **Assignment 4: TCP-UDP Traffic Analysis** | การวิเคราะห์การทำงานและพฤติกรรมของการส่งข้อมูลผ่านโปรโตคอลระดับ Transport (TCP/UDP) | [Read Document](https://docs.google.com/document/d/11Md9cYdv4qp7L72oMXNSnUN7tQ7hBySnuw3hdgSdWaw/edit?usp=sharing) |
 | **LAB 5: Enterprise WAN & Microservices** | การออกแบบเครือข่าย WAN ระดับองค์กร (Serial Link, NAT) และจำลองการยิง API ข้ามสาขา | [Read Document](https://docs.google.com/document/d/1DmLHO7-ZALTUnAIkWFuZtlpeCkCDUVL50rgGGAwrVIM/edit?usp=sharing) |
+| **Final Project Repository** | โค้ดและระบบการทำงานฉบับสมบูรณ์ของโปรเจกต์เครือข่าย (Network Project Implementation) | [View on GitHub](https://github.com/zeemongteng/PJNETWORK.git) |
 
 ---
 
