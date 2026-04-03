@@ -19,7 +19,6 @@ _"ผมคิดว่าการทำความเข้าใจในร
 | **Assignment 3: Complex Network (Not Simple)** | ยกระดับการออกแบบและตั้งค่าระบบเครือข่ายให้มีความซับซ้อนและครอบคลุมการใช้งานมากขึ้น | [Read Document](https://docs.google.com/document/d/12GSGnVjJqhnD6YIkH037frhKm9JXoM8_B7qd1TbOU0I/edit?usp=sharing) |
 | **Assignment 4: TCP-UDP Traffic Analysis** | การวิเคราะห์การทำงานและพฤติกรรมของการส่งข้อมูลผ่านโปรโตคอลระดับ Transport (TCP/UDP) | [Read Document](https://docs.google.com/document/d/11Md9cYdv4qp7L72oMXNSnUN7tQ7hBySnuw3hdgSdWaw/edit?usp=sharing) |
 | **LAB 5: Enterprise WAN & Microservices** | การออกแบบเครือข่าย WAN ระดับองค์กร (Serial Link, NAT) และจำลองการยิง API ข้ามสาขา | [Read Document](https://docs.google.com/document/d/1DmLHO7-ZALTUnAIkWFuZtlpeCkCDUVL50rgGGAwrVIM/edit?usp=sharing) |
-| **Final Project Repository** | โค้ดและระบบการทำงานฉบับสมบูรณ์ของโปรเจกต์เครือข่าย (Network Project Implementation) | [View on GitHub](https://github.com/zeemongteng/PJNETWORK.git) |
 
 ---
 
@@ -35,6 +34,8 @@ _"ผมคิดว่าการทำความเข้าใจในร
 | **LAB 4: Stateful vs Stateless** | ออกแบบสถาปัตยกรรมเครือข่ายสำหรับระบบที่มีบริการแบบ Stateful และ Stateless ให้รองรับอินเทอร์เน็ตจำลอง | [Read Document](https://docs.google.com/document/d/1jZDgl7EtXk7bR2RrYoHCrLIWXOWSqZac2vDJG2P0juI/edit?usp=sharing) |
 | **Network Innovation Concept (Newnet)** | การรวบรวมแนวคิดออกแบบเครือข่ายความปลอดภัยขั้นสูง ก่อนนำไปต่อยอดเป็นโปรเจกต์ VOID Protocol | [Read Document](https://docs.google.com/document/d/1gJkMFN4hgXB90pvtZpv6ZPhaqVyDounPEB3GIj4IMBw/edit?usp=sharing) |
 | **Final Project: VOID Protocol** | นวัตกรรมโปรโตคอลป้องกันการดักจับข้อมูลด้วยหลักการ **Data Sharding** และ **Multi-Path Distribution** | [Project Folder](https://drive.google.com/drive/folders/1gTdXjoIsUIbjT1jGH4DVsboFauqYE2jA) |
+| **Final Project Repository** | คลังข้อมูลระบบการทำงานและซอร์สโค้ดฉบับสมบูรณ์ของโปรเจกต์เครือข่าย | [View on Drive](https://drive.google.com/drive/folders/1JM4-YvbYldDLFuRnN2Nq7SSp_UfpJB4V) |
+| **Final Project Live Website** | 🌐 เว็บไซต์นำเสนอโปรเจกต์และระบบการทำงานฉบับสมบูรณ์ (Deployed on Vercel) | [Visit Website](https://pjnetwork.vercel.app/) |
 
 ---
 
